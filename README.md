@@ -3,3 +3,5 @@
 
 # DEMO
 ![螢幕擷取畫面 2024-10-23 171512](https://github.com/user-attachments/assets/50d30c47-fa74-4a34-a8d2-8083f245c6f0)
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/fjbABblJtrA/0.jpg)](https://www.youtube.com/watch?v=fjbABblJtrA "AutoCleaner DEMO")
